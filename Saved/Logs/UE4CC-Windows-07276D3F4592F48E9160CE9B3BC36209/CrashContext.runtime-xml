@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<Version>1</Version>
+<ProcessId>14256</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<GameName>BadWizard</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineVersion>4.10.4-2872498+++depot+UE4-Releases+4.10</EngineVersion>
+<CommandLine> </CommandLine>
+<LanguageLCID>2057</LanguageLCID>
+<DefaultLocale>en_GB</DefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files/Epic Games/4.10/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files/Epic Games/4.10/</RootDir>
+<MachineId>776CD0194945067AD505DA87C7DCEC14</MachineId>
+<EpicAccountId>b0d37f933f4d481fa531816df703f5e0</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage>Ensure condition failed: 0 [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.10\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp] [Line: 1789] 
+Rebuild BSP ignored. Not in a transaction
+</ErrorMessage>
+<MiscNumberOfCores>4</MiscNumberOfCores>
+<MiscNumberOfCoresIncludingHyperthreads>8</MiscNumberOfCoresIncludingHyperthreads>
+<MiscIs64bitOperatingSystem>1</MiscIs64bitOperatingSystem>
+<MiscCPUVendor>GenuineIntel</MiscCPUVendor>
+<MiscCPUBrand>Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz</MiscCPUBrand>
+<MiscPrimaryGPUBrand>NVIDIA GeForce GTX 970</MiscPrimaryGPUBrand>
+<MiscOSVersionMajor>Windows 10</MiscOSVersionMajor>
+<MiscOSVersionMinor></MiscOSVersionMinor>
+<CrashDumpMode>0</CrashDumpMode>
+<MemoryStatsTotalPhysical>17034469376</MemoryStatsTotalPhysical>
+<MemoryStatsTotalVirtual>140737488224256</MemoryStatsTotalVirtual>
+<MemoryStatsPageSize>4096</MemoryStatsPageSize>
+<MemoryStatsTotalPhysicalGB>16</MemoryStatsTotalPhysicalGB>
+<MemoryStatsAvailablePhysical>3749888000</MemoryStatsAvailablePhysical>
+<MemoryStatsAvailableVirtual>140729066139648</MemoryStatsAvailableVirtual>
+<MemoryStatsUsedPhysical>4037599232</MemoryStatsUsedPhysical>
+<MemoryStatsPeakUsedPhysical>4103258112</MemoryStatsPeakUsedPhysical>
+<MemoryStatsUsedVirtual>6819651584</MemoryStatsUsedVirtual>
+<MemoryStatsPeakUsedVirtual>6819651584</MemoryStatsPeakUsedVirtual>
+<MemoryStatsbIsOOM>0</MemoryStatsbIsOOM>
+<MemoryStatsOOMAllocationSize>0</MemoryStatsOOMAllocationSize>
+<MemoryStatsOOMAllocationAlignment>0</MemoryStatsOOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
